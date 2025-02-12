@@ -8,6 +8,7 @@ This is a personal project aimed at exploring how to recommend movies to users b
 The project references various research studies and builds upon them to further optimize the recommendation model. Below is the full report of the project:
 
 [Download Report](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Report_RecSys.pdf)
+
 [Download Dataset](https://grouplens.org/datasets/movielens/)
 
 -----------------------------------------
