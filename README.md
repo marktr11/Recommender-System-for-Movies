@@ -1,7 +1,7 @@
 # Recommender System for Movies 🎬🎬🎬
 ## Using Matrix Factorization
 
-![Image](https://developers.google.com/machine-learning/recommendation/images/1Dmatrix.svg?hl=fr){width="50%"}
+<img src="https://developers.google.com/machine-learning/recommendation/images/1Dmatrix.svg?hl=fr" width="50%" />
 *Source: developers.google.com*
 
 ---
