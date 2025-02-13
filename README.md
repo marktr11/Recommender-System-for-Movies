@@ -6,7 +6,7 @@
 
 ---
 
-### 🇬🇧 English version below
+### 🇬🇧 English version follows
 
 ## 🎬 Ce projet personnel
 
