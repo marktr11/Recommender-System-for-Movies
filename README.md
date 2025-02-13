@@ -1,7 +1,11 @@
 # Recommender System for Movies 🎬🎬🎬
 ## Using Matrix Factorization
 
------------------------------------------
+![Image](https://developers.google.com/machine-learning/recommendation/images/1Dmatrix.svg?hl=fr)
+*Source: developers.google.com*
+
+
+
 Ce projet personnel vise à explorer comment recommander des films aux utilisateurs en fonction de la manière dont ils évaluent les films et de la façon dont les films sont notés en général. Ce projet utilise des techniques de filtrage collaboratif dans les systèmes de recommandation.
 
 Le projet s'inspire de quelques recherches et les développe pour optimiser davantage le modèle de recommandation. Vous trouverez ci-dessous le rapport complet du projet :
