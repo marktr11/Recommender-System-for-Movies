@@ -5,12 +5,7 @@
 *Source: developers.google.com*
 
 ---
-<img src="https://developers.google.com/machine-learning/recommendation/images/1Dmatrix.svg?hl=fr" width="50%" />
-*Source: developers.google.com*
-
----
-
-## 🎬 Version anglaise ci-dessous
+## 🇬🇧 English version below
 
 ## 🎬 Ce projet personnel
 
