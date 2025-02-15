@@ -14,9 +14,9 @@ Ce projet personnel vise à explorer comment recommander des films aux utilisate
 
 Le projet s'inspire de quelques recherches et les développe pour optimiser davantage le modèle de recommandation. Vous trouverez ci-dessous le rapport complet du projet :
 
-- [Téléchargez le rapport complet](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Rapport_SysRec.pdf)
+- [Téléchargez le rapport complet](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Report/Rapport_SysRec.pdf)
 - [Téléchargez le dataset](https://grouplens.org/datasets/movielens/)
-- [Fichier du projet principal](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/RecommenderSystem.ipynb)
+- [Fichier du projet principal](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Jupyter%20File/RecommenderSystem.ipynb)
 
 Les autres fichiers fourniront des développements supplémentaires du projet.
 
@@ -27,9 +27,9 @@ This is a project aimed at exploring how to recommend movies to users based on h
 
 The project references several research studies and builds upon them to further optimize the recommendation model. Below is the full report of the project:
 
-- [Download Report](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Report_RecSys.pdf)
+- [Download Report](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Report/Report_RecSys.pdf)
 - [Download Dataset](https://grouplens.org/datasets/movielens/)
-- [Main Project File](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/RecommenderSystem.ipynb)
+- [Main Project File](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Jupyter%20File/RecommenderSystem.ipynb)
 
 The remaining files will provide further developments of the project.
 
