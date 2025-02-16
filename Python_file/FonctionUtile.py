@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import os
 
 def data_ratings():
     """
@@ -8,9 +9,9 @@ def data_ratings():
     - la matrice Y : ndarray (nb_films, nb_utilisateurs) qui inclut les notes
     - la matrice R : ndarray (nb_films, nb_utilisateurs) qui inclut 1 si le film a été noté, 0 sinon.
     """
-
-    #importer les données
-    file_path = './Data/ratings.csv'
+    # Déterminer le chemin absolu vers le fichier ratings.csv
+    base_dir = os.path.dirname(os.path.abspath(__file__))  # Dossier Python_file
+    file_path = os.path.join(base_dir, "../Data/ratings.csv")  # Aller vers Data
     data = pd.read_csv(file_path)
 
     #Création d'un tableau croisé dynamique
@@ -56,8 +57,9 @@ def dict_evaluations():
       - dict: film_ratings.
     """
 
-    # Importer les données
-    file_path = './Data/ratings.csv'
+    # Déterminer le chemin absolu vers le fichier ratings.csv
+    base_dir = os.path.dirname(os.path.abspath(__file__))  # Dossier Python_file
+    file_path = os.path.join(base_dir, "../Data/ratings.csv")  # Aller vers Data
     data = pd.read_csv(file_path)
     ratings = data.to_numpy()
     
@@ -161,7 +163,12 @@ def movies_list():
       - df (pd.DataFrame): Le dataframe contenant les données du fichier.
       - filmlist (list): La liste des noms de films.
     """
-    
-    df = pd.read_csv('./Data/movies_list.csv', header=0, index_col=0,  delimiter=',', quotechar='"')
+    # Obtenir le chemin absolu du dossier contenant le script (Python_file/)
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Construire le chemin vers le fichier Data/movies_list.csv
+    file_path = os.path.join(base_dir, "../Data/movies_list.csv")
+
+    df = pd.read_csv(file_path, header=0, index_col=0,  delimiter=',', quotechar='"')
     filmList = df["title"].to_list()
     return filmList,df
