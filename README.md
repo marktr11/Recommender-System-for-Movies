@@ -14,7 +14,7 @@ The project references several research studies and builds upon them to further 
 
 - [Download Report](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Report/Report_RecSys.pdf)
 - [Download Dataset](https://grouplens.org/datasets/movielens/)
-- [Main Project File](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Jupyter%20File/RecommenderSystem.ipynb)
+- [Main Project File](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Jupyter_file/MF.ipynb)
 
 The remaining files will provide further developments of the project.
 
@@ -27,6 +27,6 @@ Le projet s'inspire de quelques recherches et les développe pour optimiser dava
 
 - [Téléchargez le rapport complet](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Report/Rapport_SysRec.pdf)
 - [Téléchargez le dataset](https://grouplens.org/datasets/movielens/)
-- [Fichier du projet principal](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Jupyter%20File/RecommenderSystem.ipynb)
+- [Fichier du projet principal](https://github.com/marktr11/Recommender-System-for-Movies/blob/master/Jupyter_file/MF.ipynb)
 
 Les autres fichiers fourniront des développements supplémentaires du projet.
